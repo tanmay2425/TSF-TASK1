@@ -1,2 +1,2 @@
 # TSF-TASK1
-task 1 of internship
+TASK number 1 "Opticl character Recognition (OCR)" as an IoT & Computer Vision intern at The Sparks Foundation.
